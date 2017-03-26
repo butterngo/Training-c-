@@ -1,0 +1,6 @@
+1. Tao account cho nhan vien.
+2. nhan vien login vao he thong.
+3. nhan vien se nhap thong tin cua khach hang.
+4. nhan vien co the sua thong tin cho khach hang.
+5. nhan vien co the xoa thong tin khach hang.
+6. report
