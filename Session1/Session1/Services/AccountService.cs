@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace Session1.Services
 {
-    public class ServiceAccount
+    public class AccountService
     {
         public string Create(string firstName, string lastName, string userName, string password)
         {

@@ -10,7 +10,7 @@ namespace Session1
 {
     class Program
     {
-        static ServiceAccount _serviceAccount = new ServiceAccount();
+        static AccountService _serviceAccount = new AccountService();
 
         static void Main(string[] args)
         {
